@@ -1,0 +1,12 @@
+.LogStatus {
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+    color: black;
+    font-weight: bold;
+    border-radius: 1rem;
+  }
+  
+  .error {
+    background-color: red;
+  }
